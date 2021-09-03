@@ -1,9 +1,9 @@
 # Git Workshop
-## By: Noah Pineiro
+## Noah Pineiro
 
 First time readme
 
-'''java
+'''javascript
 
 String str = "Hello world!";
 System.out.println(str);

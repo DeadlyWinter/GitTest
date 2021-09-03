@@ -1,3 +1,9 @@
+# Git Workshop
+## By: Noah Pineiro
+
 First time readme
 
-Cool
+'''java
+
+String str = "Hello world!";
+System.out.println(str);
